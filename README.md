@@ -1,4 +1,4 @@
 # qr-code
- desafio
+ desafio do Frontend Mentor
 
  https://feliciano-m.github.io/qr-code/
